@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Prosper 👋
 
-<!--
-**fretdev/fretdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer & Lead Guitarist**
 
-Here are some ideas to get you started:
+I build scalable, high-performance web applications, specializing in robust backend architectures and clean user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+* **Languages & Frameworks:** Java (Spring Boot), Python (Django), JavaScript (React, Next.js)
+* **Databases & Tools:** PostgreSQL, REST APIs, JWT, Tailwind CSS, Docker
+
+---
+
+### 🚀 Current Focus
+Engineering **[FretMart](https://github.com/fretdev/fretmart-hybrid-ecommerce)** — a full-stack e-commerce platform featuring a high-throughput hybrid data layer.
+
+---
+
+🎵 *When I'm not writing code, I'm analyzing jazz theory or playing lead guitar.*
