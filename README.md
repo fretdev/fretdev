@@ -8,7 +8,7 @@ I engineer scalable, production-ready web ecosystems with a heavy focus on high-
 ### 🚀 Active Production Suites
 
 *   **[AgroFlow](https://github.com/fretdev/AgroFlow)** — An enterprise-grade logistics protocol and marketplace engine engineered to eliminate agricultural supply chain fragmentation. Built using **Java 21, Spring Boot 3.x, and PostgreSQL 17**, utilizing containerized environments and automated data migrations to drive real-time triangular trade coordination.
-*   **[Cognera](https://github.com/fretdev/Cognera)**— An advanced, scholarly-focused AI study assistant designed for deep-learning environments. Engineered with a FastAPI backend and Gemini 2.5 Flash-Lite, it utilizes a sophisticated Retrieval-Augmented Generation (RAG) pipeline with vector embeddings for high-precision, context-aware academic insights. Features a custom, low-latency streaming architecture and a specialized "Dark Academia" interface, optimized for scholarly focus and long-form retention.
+*   **[Cognera](https://github.com/fretdev/Cognera)** — An advanced, scholarly focused AI study assistant designed for deep learning environments. Engineered with a FastAPI backend and Gemini 2.5 Flash-Lite, it utilizes a sophisticated Retrieval Augmented Generation (RAG) pipeline with vector embeddings for high precision, context aware academic insights. Features a custom, low-latency streaming architecture and a specialized "Dark Academia" interface, optimized for scholarly focus and long form retention.
 
 ---
 
